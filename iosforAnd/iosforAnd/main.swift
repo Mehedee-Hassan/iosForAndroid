@@ -8,17 +8,23 @@
 
 import Foundation
 
-print("Hello, World!")
+//print("Hello, World!")
+//
+//func greet(person:String ,isGreeted : Bool)->String{
+//    
+//    if isGreeted{
+//        return "yup"
+//        
+//    }
+//    else{
+//    return "greetings"
+//    }
+//}
+//
+//print (greet(person:"mehedee",isGreeted:false))
 
-func greet(person:String ,isGreeted : Bool)->String{
-    
-    if isGreeted{
-        return "yup"
-        
-    }
-    else{
-    return "greetings"
-    }
-}
 
-print (greet(person:"mehedee",isGreeted:false))
+//clss and structure
+//
+
+struct

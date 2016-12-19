@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5E9B669AEA9A33B2F9568B6350A9408AE2F5D6B2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5E9B669AEA9A33B2F9568B6350A9408AE2F5D6B2" : 9223372036854775807,
+    "5ABE66496DB4A48B4C6F1AED387B0F43F36ED5B2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "76DEE745-8AE4-4B5B-98A8-023579F63D59",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5E9B669AEA9A33B2F9568B6350A9408AE2F5D6B2" : "iosforAnd\/",
+    "5ABE66496DB4A48B4C6F1AED387B0F43F36ED5B2" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "swiftBank",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "swiftBank\/swiftBank.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Mehedee-Hassan\/swiftPractice.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5ABE66496DB4A48B4C6F1AED387B0F43F36ED5B2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Mehedee-Hassan\/iosForAndroid.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E9B669AEA9A33B2F9568B6350A9408AE2F5D6B2"
+    }
+  ]
+}

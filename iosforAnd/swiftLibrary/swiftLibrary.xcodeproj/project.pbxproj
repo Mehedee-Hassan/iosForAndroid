@@ -17,6 +17,7 @@
 		A8B62EA71E0B404A00DE0A40 /* Book+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8B62EA51E0B404A00DE0A40 /* Book+CoreDataProperties.swift */; };
 		A8C4C44B1E0C79AC0042E160 /* BookTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C4C44A1E0C79AC0042E160 /* BookTableViewCell.swift */; };
 		A8C4C44D1E0CA90D0042E160 /* NewBookViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C4C44C1E0CA90D0042E160 /* NewBookViewController.swift */; };
+		A8CD1E981E0CC9FF00EEACF8 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8CD1E971E0CC9FF00EEACF8 /* Utils.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		A8B62EA51E0B404A00DE0A40 /* Book+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Book+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		A8C4C44A1E0C79AC0042E160 /* BookTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookTableViewCell.swift; sourceTree = "<group>"; };
 		A8C4C44C1E0CA90D0042E160 /* NewBookViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewBookViewController.swift; sourceTree = "<group>"; };
+		A8CD1E971E0CC9FF00EEACF8 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		A820B2011E088994005F5BD9 /* Misc */ = {
 			isa = PBXGroup;
 			children = (
+				A8CD1E971E0CC9FF00EEACF8 /* Utils.swift */,
 			);
 			name = Misc;
 			path = ..;
@@ -203,6 +206,7 @@
 				A8C4C44B1E0C79AC0042E160 /* BookTableViewCell.swift in Sources */,
 				A8C4C44D1E0CA90D0042E160 /* NewBookViewController.swift in Sources */,
 				A820B1F41E088974005F5BD9 /* swiftLibrary.xcdatamodeld in Sources */,
+				A8CD1E981E0CC9FF00EEACF8 /* Utils.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
